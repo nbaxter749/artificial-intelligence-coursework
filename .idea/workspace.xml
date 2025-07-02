@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ef551cd-e73c-4ce1-9714-44fba3fe4aad" name="Changes" comment="Initial commit - Sentiment Analysis Project">
-      <change beforePath="$PROJECT_DIR$/reports/sentiment_analysis_report.docx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/X_test.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/X_train.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/tokenizer.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/y_test.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/y_train.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tripadvisor_hotel_reviews.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/classification_report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/confusion_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/model_comparison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/train_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +65,7 @@
     &quot;Python.setup_structure.executor&quot;: &quot;Run&quot;,
     &quot;Python.structure.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Iansyst-Loan/Desktop/AI/Assignment 2&quot;,
@@ -160,6 +175,8 @@
       <workItem from="1742558441956" duration="734000" />
       <workItem from="1742559208539" duration="3360000" />
       <workItem from="1742575524545" duration="5680000" />
+      <workItem from="1742584225670" duration="25000" />
+      <workItem from="1742584253716" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Sentiment Analysis Project">
       <option name="closed" value="true" />

@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model files - exclude from Git
+models/*.h5
+*.h5
+
+# Specific large files
+.venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
+.venv/Lib/site-packages/clang/native/libclang.dll
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific files
+.idea/
+*.iml
+*.iws
+.DS_Store
